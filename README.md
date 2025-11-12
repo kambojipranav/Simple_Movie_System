@@ -24,7 +24,7 @@ It allows you to **add**, **edit**, **delete**, and **search** movies with their
 - React.js  
 - Axios  
 - React Hook Form  
-- Bootstrap (buttons only)
+- Bootstrap 
 
 **Backend:**
 - Node.js  
